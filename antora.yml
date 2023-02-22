@@ -1,0 +1,12 @@
+name: user-guide
+version: '1.0'
+display_version: "1.0 LTS"
+title: User Guide
+start_page: ROOT:index.adoc # default
+prerelease: false
+# asciidoc:
+  # there are build-in, custom, and page attributes
+  #attributes:
+    # set_something_that_we_are_going_to_use_in_asciidoc: anything 
+# nav
+
