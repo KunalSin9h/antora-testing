@@ -8,5 +8,7 @@ prerelease: false
   # there are build-in, custom, and page attributes
   #attributes:
     # set_something_that_we_are_going_to_use_in_asciidoc: anything 
-# nav
+nav:
+  - modules/ROOT/nav.adoc
+
 

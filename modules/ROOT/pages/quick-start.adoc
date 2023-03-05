@@ -1,0 +1,5 @@
+= The Quick Start Guide
+
+=== Here's how you can setup Red Had in Minutes
+
+Hello

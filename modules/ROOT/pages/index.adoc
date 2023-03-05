@@ -1,4 +1,6 @@
-= Hello
+= The Page Title
+:name-of-an-attribute: value of the attribute
+:page-attribute: value of the page attribute
  
 This is me trying asciidoc for first time
 

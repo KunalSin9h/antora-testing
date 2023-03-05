@@ -1,0 +1,7 @@
+.The Title Here at nav.adoc
+* xref:page$index.adoc[]
+** xref:page$quick-start.adoc[]
+* What is This
+* https://kunalsin9h.dev[Kunal Singh]
+* https://articles.kunalsin9h.dev
+
